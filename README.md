@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mahasvin
 - 👀 I’m interested in Electrical Engineering
-- 🌱 I’m currently studying Bachelors in Electrical Engineering at UTS
+- 🌱 Bachelors in Electrical Engineering at UTS
 - 📫 How to reach me: mahasvin.gogi@hotmail.com
 
 <!---
